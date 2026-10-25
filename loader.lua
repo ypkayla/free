@@ -2,7 +2,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local BASE = 'https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/games/'
+local BASE = 'https://raw.githubusercontent.com/ypkayla/free/main/games/'
 
 local games = {
     [362755399] = '347356359.luau'
